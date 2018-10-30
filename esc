@@ -1,0 +1,41 @@
+[33mcommit 08f9ed443a59d20be7fac41fa4e356a600af92ee[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:27:08 2018 -0700
+
+    Add html structure to Index
+
+[33mcommit 81208aa219006bc271e27d0853e064a4539f82d3[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:22:56 2018 -0700
+
+    Add h1 tag
+
+[33mcommit 278d7b480b7ae38901a7daf9612c6526e78554ba[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:18:57 2018 -0700
+
+    Add baz
+
+[33mcommit 269e8cfa990d54e5955a10415cda021f0be1b443[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:16:21 2018 -0700
+
+    Add some text to Index.html
+
+[33mcommit 2b6d1785521d5007ab1c783dfb391e80691160c8[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:11:58 2018 -0700
+
+    Bar commit
+
+[33mcommit a272d9b9d15b078d9c2465d4bcbf5ff777e488a4[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:11:24 2018 -0700
+
+    Foo commit
+
+[33mcommit 1eac94120081db82844ec54c05f6db48fc130578[m
+Author: Jaime <monitoapps@gmail.com>
+Date:   Tue Oct 30 12:09:03 2018 -0700
+
+    Initialize repository
